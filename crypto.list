@@ -28,11 +28,9 @@ DOMAIN-SUFFIX,bnbzh.co
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bnappzh.com
 DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,okx.com
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bnb
 DOMAIN-KEYWORD,ftx
-DOMAIN-KEYWORD,okex
 DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,ftx.cool
 DOMAIN-SUFFIX,ftx.tech
@@ -41,3 +39,4 @@ DOMAIN-SUFFIX,ftx.io
 DOMAIN-SUFFIX,ftx.ditital
 DOMAIN-SUFFIX,help.ftx.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
