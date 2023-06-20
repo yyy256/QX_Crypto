@@ -38,5 +38,9 @@ DOMAIN-SUFFIX,ftx.blue
 DOMAIN-SUFFIX,ftx.io
 DOMAIN-SUFFIX,ftx.ditital
 DOMAIN-SUFFIX,help.ftx.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,identrust.com
+
+
